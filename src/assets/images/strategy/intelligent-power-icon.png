@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACGUlEQVRYR+2XMXLTQBSG/1+OlZI0zCRuMAUZucKcAHOCmBPgG8Q3iHOCxDcwJ8CcAOcEhMoCCkwje4bGKSMH/czKWVkE2zOKN2mwCs2OpH3ve2933/9E5K79WdCgcEKwkX/ucHwJqh+Vw1Nrk3ZQuTlsIil9cOhspSkB3bE/bJsPFgBxMAX4xDwUdPEQIARfW7uRP0x9p7d9BVVvxh9z5ws61xAHce2cwLGxO8PNq1/+98s5wCxoeOKn1KF0Gu2GHdfOjb3KddABeWLGCfVmUg4HW4BtBtZmoBIHPYDv8hvSHNGxH96rUBXehJW4JuPcntlNT8YWwGkGUu2Q99Iui6Tp2P/afRq/qJdZOsovVwJcmKLjFiAOphKnhHoiGqbOm+rGhG0SR6aiWojEw+ABAGqyJ8JGlgIIHQOzbOM6zsAqADaN4AgaZJrvJd1o51v/UQBMqs0+KLG0R7FO4MwK3KMB2Mgzlb1V2MIAB9e1frqhcpdd93/f6Sopo+7FaFnJzaZ5v9/eawk2rXx35xfOwBbg/8lAWr+x83kesd5HfthyHX3alOb6i6Ss5xOGo+X/BdIIxMgphFAlWb0N8irywz0zXgDkWmanjpcZy7X+GUD6fxAHLQItiFUSz1yCSPgJaiSgN/HDXqYT65zYlmxTkHUt3V8ZuOtoWSkuCiPh43h32Fw1by3AXExwDjDrfIoB6EtCtI1Crpr3B+hsTT8uwCPSAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/strategy/intelligent-power-icon.png
+// module id = Dtro
+// module chunks = 6
