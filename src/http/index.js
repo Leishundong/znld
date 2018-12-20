@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { reqSuccess, reqError, resSuccess, resError } from './interceptors'
 
-axios.defaults.baseURL = 'http://localhost:8081/api'
+axios.defaults.baseURL = 'http://localhost:8082/api'
 axios.defaults.timeout = 10000
 axios.defaults.headers.common['Content-Type'] = 'application/json'
 axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest'
